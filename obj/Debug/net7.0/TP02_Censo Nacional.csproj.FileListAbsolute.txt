@@ -1,0 +1,15 @@
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\bin\Debug\net7.0\TP02_Censo Nacional.exe
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\bin\Debug\net7.0\TP02_Censo Nacional.deps.json
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\bin\Debug\net7.0\TP02_Censo Nacional.runtimeconfig.json
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\bin\Debug\net7.0\TP02_Censo Nacional.dll
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\bin\Debug\net7.0\TP02_Censo Nacional.pdb
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\TP02_Censo Nacional.csproj.AssemblyReference.cache
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\TP02_Censo Nacional.GeneratedMSBuildEditorConfig.editorconfig
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\TP02_Censo Nacional.AssemblyInfoInputs.cache
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\TP02_Censo Nacional.AssemblyInfo.cs
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\TP02_Censo Nacional.csproj.CoreCompileInputs.cache
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\TP02_Censo Nacional.dll
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\refint\TP02_Censo Nacional.dll
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\TP02_Censo Nacional.pdb
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\TP02_Censo Nacional.genruntimeconfig.cache
+Z:\4to\PROGRAMACION\TP02_Censo Nacional\obj\Debug\net7.0\ref\TP02_Censo Nacional.dll
